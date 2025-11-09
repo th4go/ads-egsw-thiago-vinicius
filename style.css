@@ -1,0 +1,26 @@
+form {
+    display: flex;
+    flex-direction: column;
+}
+form label {
+    color: #5C1210;
+    margin-top: 10px;
+}
+form input {
+    padding: 10px;
+    margin-top: 5px;
+    border: 1px solid #5C1210;
+    border-radius: 4px;
+}
+form button {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #5C1210;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+h2 {
+    color: #5C1210;
+}
