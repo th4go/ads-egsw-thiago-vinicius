@@ -1,2 +1,5 @@
-- Criação do repositório básico (README + CHANGELOG)
+- 09/11/2025 - Criação do repositório básico (README + CHANGELOG).
+- 09/11/2025 - Criação do arquivo principal do HTML do projeto, versão 1.0, HTML de uma página de cadastro.
+- 09/11/2025 - Criação do arquivo CSS base para páginas HTML.
+- 09/11/2025 - Alterações no arquivo CSS.
 - 
