@@ -2,4 +2,7 @@
 - 09/11/2025 - Criação do arquivo principal do HTML do projeto, versão 1.0, HTML de uma página de cadastro.
 - 09/11/2025 - Criação do arquivo CSS base para páginas HTML.
 - 09/11/2025 - Alterações no arquivo CSS.
-- 
+- 09/11/2025 - Release da versão 1.1.0.
+- 09/11/2025 - Criação da página de login.
+- 09/11/2025 - Ajuste no formato do arquivo do site1 para html.
+- 09/11/2025 - Release da versão 1.2.0.
